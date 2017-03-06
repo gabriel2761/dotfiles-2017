@@ -1,0 +1,5 @@
+
+alias nvimrc="nvim ~/.config/nvim/init.vim"
+alias bashprof="nvim ~/.bash_profile"
+alias aliases="nvim ~/.aliases"
+
