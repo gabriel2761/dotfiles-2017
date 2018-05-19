@@ -1,5 +1,16 @@
+alias gs="git status"
+alias gd="git diff"
+alias gap="git add -p"
 
 alias nvimrc="nvim ~/.config/nvim/init.vim"
-alias bashprof="nvim ~/.bash_profile"
 alias aliases="nvim ~/.aliases"
+alias tmuxrc="nvim ~/.tmux.conf"
+alias zprof="nvim ~/.zprofile"
 
+alias a="clear && ls"
+
+alias down="cd ~/Downloads"
+
+# temp
+alias temp="nvim ~/.temp"
+alias sot="source ~/.temp"
